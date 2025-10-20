@@ -91,5 +91,3 @@ If you have suggestions for additional macros or improvements, feel free to subm
 ---
 
 Enjoy your faster Git workflow! 🚀
-
-```
