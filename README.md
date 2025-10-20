@@ -31,13 +31,13 @@ These macros help automate everyday Git workflows, including:
 
 ### Linux / macOS
 ```bash
-curl -sSL https://your-site.com/git-macros-installer.sh | bash
+curl -sSL https://raw.githubusercontent.com/krasenslavov/git-macros-installer/refs/heads/main/git-macros.sh | bash
 ````
 
 ### Windows (Git Bash)
 
 ```bash
-curl -sSL https://your-site.com/git-macros-installer.sh | bash
+curl -sSL https://raw.githubusercontent.com/krasenslavov/git-macros-installer/refs/heads/main/git-macros.sh | bash
 ```
 
 > ⚠️ Make sure Git is installed and available in your PATH.
