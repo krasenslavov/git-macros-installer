@@ -1,4 +1,3 @@
-````markdown
 # Git Macros Installer – 15 Essential Git Aliases
 
 This repository provides a **cross-platform installer** for 15 highly useful Git macros (aliases) that automate common Git tasks.  
